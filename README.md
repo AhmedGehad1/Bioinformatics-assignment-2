@@ -27,6 +27,6 @@
        ![image](https://github.com/AhmedGehad1/Bioinformatics-assignment-2/assets/125567504/45bbab81-8263-4d39-80c0-eee33e0b1c10)
 
 
-#### Please read thr Pdf for more information
+#### Please read the Pdf for more information
 
 ### Done by: Ahmed Gehad Mohamed Aly
