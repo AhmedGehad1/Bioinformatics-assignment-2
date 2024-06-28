@@ -24,6 +24,8 @@
      - Reconstructed phylogenetic tree visualized using the Phylo library.
      - Includes distances printed on the tree figure for clarity.
         ![image](https://github.com/AhmedGehad1/Bioinformatics-assignment-2/assets/125567504/2f2b2f34-eb38-47fc-b105-63dd7463c7a0)
+       ![image](https://github.com/AhmedGehad1/Bioinformatics-assignment-2/assets/125567504/45bbab81-8263-4d39-80c0-eee33e0b1c10)
+
 
 #### Please read thr Pdf for more information
 
