@@ -4,8 +4,6 @@
 - Constructs a distance matrix based on the alignment results.
 - Implements the Neighbor Joining algorithm to build the phylogenetic tree.
 
-### Done by: Ahmed Gehad Mohamed Aly - 1200387
-
 ## Results Explained
 
 ### Project Requirements
@@ -26,5 +24,7 @@
      - Reconstructed phylogenetic tree visualized using the Phylo library.
      - Includes distances printed on the tree figure for clarity.
         ![image](https://github.com/AhmedGehad1/Bioinformatics-assignment-2/assets/125567504/2f2b2f34-eb38-47fc-b105-63dd7463c7a0)
-       
-####Please read thr Pdf for more information
+
+#### Please read thr Pdf for more information
+
+### Done by: Ahmed Gehad Mohamed Aly
