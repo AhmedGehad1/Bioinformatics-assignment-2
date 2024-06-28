@@ -1,0 +1,2 @@
+Tree Structure:
+(((Species7:0.04167,Species6:0.04167)Inner2:0.18056,(Species5:0.10000,Species4:0.06667)Inner1:0.52778)Inner3:0.28125,(Species1:0.04167,Species2:0.04167)Inner4:0.03125,Species3:0.09375)Inner5:0.00000;
